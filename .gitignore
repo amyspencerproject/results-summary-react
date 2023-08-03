@@ -1,4 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# design files
+*.sketch
+*.fig
+*.xd
 
 # dependencies
 /node_modules
@@ -18,6 +22,7 @@
 # misc
 .DS_Store
 *.pem
+.prettierignore
 
 # debug
 npm-debug.log*
