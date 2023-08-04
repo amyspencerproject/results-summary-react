@@ -37,8 +37,8 @@ Desktop view
 
 ### Links
 
-- Github Repo URL: [Results Summary React Repo](https://github.com/amyspencerproject/results-summary-component)
-- Live Site URL: [Results Summary React Page](https://amyspencerproject.github.io/results-summary-component/)
+- Github Repo URL: [Results Summary React Repo](https://github.com/amyspencerproject/results-summary-react)
+- Live Site URL: [Results Summary React Page](https://results-summary-react.vercel.app/)
 
 ## My process
 
@@ -58,7 +58,8 @@ Desktop view
 
 ### Useful resources
 
--
+- [CreateNextApp documentation](https://nextjs.org/docs/getting-started/installation) - step by step on how to set up new React project with Next JS
+- [App vs Pages routing](https://stackoverflow.com/questions/75976390/can-i-use-both-app-and-pages-folder-on-my-next-13-app#:~:text=According%20to%20NextJs%20documentation%2C%20you,a%20new%20directory%20named%20app.)
 
 ## Author
 
